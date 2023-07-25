@@ -3,6 +3,8 @@ Banking Application developed using Java and XML in Android Studio. This is my f
 This application not only provides a user-friendly interface for managing banking data but also enhances security by eliminating the need for physical paperwork and reducing the risk of fraud. With error handling built-in and secure login, customers can be confident that their transactions are secure and accurate. 
 Overall, the Bankio account management application is a crucial solution in this digitalization era, providing customers with a convenient and secure way to manage their finances on the go, enabling them to keep pace with the rapidly evolving digital landscape.
 
+The app is published in Google Play Store and as of 25/07/2023 its in Early Access State :- https://play.google.com/store/apps/details?id=com.bankio.bank
+
 
 <img src="https://github.com/ashy06/Bankio/assets/91536260/a41ec389-eb6c-4aa3-9017-f910950c14c3.png" width=30% height=30%>
 <img src="https://github.com/ashy06/Bankio/assets/91536260/6b9ee36d-81e8-44cc-954b-a7e70af971a7.png" width=30% height=30%>
