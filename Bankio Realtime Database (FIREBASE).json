@@ -1,0 +1,154 @@
+{
+  "users": {
+    "admin": {
+      "last": "12/07/2023 15:11:17 PM",
+      "password": "admin_bank",
+      "type": "admin",
+      "userid": "admin"
+    },
+    "b111111111": "",
+    "b555555555": {
+      "Images": "https://firebasestorage.googleapis.com/v0/b/indusind-371d0.appspot.com/o/b555555555.jpg?alt=media&token=25d351dd-abcc-47bb-aea2-5cb7300116ef",
+      "address": "Delhi",
+      "balance": "928.00",
+      "beneficiary": {
+        "bxxxxxxxxx": "Ashwin"
+      },
+      "branch": "INS",
+      "currentChecked": false,
+      "dob": "01/06/2005",
+      "email": "hdf@gmail.com",
+      "gender": "Male",
+      "gift": {
+        "Wb0gYKhigT": "Bxxxxxxxxx: Ashwin//100//zomato Gift Card (Wb0gYKhigT)//17/07/2023 09:35:39 pm//debit",
+        "sA3UnoGP4M": "Bxxxxxxxxx: Ashwin//100//baskin Gift Card (sA3UnoGP4M)//15/07/2023 09:30:03 pm//debit"
+      },
+      "ifsc": "ICICI00873",
+      "last": "18/07/2023 08:59:27 PM",
+      "loan": {
+        "-N_9mIGOQKyWQCPFWHdM": {
+          "pan": "https://firebasestorage.googleapis.com/v0/b/indusind-371d0.appspot.com/o/pan_B555555555.heic?alt=media&token=8cd98baa-87d7-43ec-8476-d65352aa6a58"
+        },
+        "-N_ZEALM1mHpACNLMdd9": {
+          "aadhar": "https://firebasestorage.googleapis.com/v0/b/indusind-371d0.appspot.com/o/aadhar_B555555555.heic?alt=media&token=e46ff07a-9390-4df1-8361-76788ff2498c",
+          "amount": "15000",
+          "month": "3",
+          "netAmount": "15550.33",
+          "pan": "https://firebasestorage.googleapis.com/v0/b/indusind-371d0.appspot.com/o/pan_B555555555.heic?alt=media&token=5f7093ab-b010-4fa7-adec-7e6d2e9f6253",
+          "paySlip": "https://firebasestorage.googleapis.com/v0/b/indusind-371d0.appspot.com/o/payslip_B555555555.heic?alt=media&token=581c34b7-210e-469f-beec-77bb7e7beb68",
+          "remarks": "Past Loan unpaid",
+          "status": "Rejected"
+        },
+        "-N_ZEcOOAk9OY_Z8XsPb": {
+          "aadhar": "https://firebasestorage.googleapis.com/v0/b/indusind-371d0.appspot.com/o/aadhar_B555555555.jpg?alt=media&token=e8218404-a4b0-4b8b-8480-f609882c0ee6",
+          "amount": "30000",
+          "month": "12",
+          "netAmount": "34650.92",
+          "pan": "https://firebasestorage.googleapis.com/v0/b/indusind-371d0.appspot.com/o/pan_B555555555.jpg?alt=media&token=47d394d1-3c49-454a-ace7-4e1442d16578",
+          "paySlip": "https://firebasestorage.googleapis.com/v0/b/indusind-371d0.appspot.com/o/payslip_B555555555.jpg?alt=media&token=5fcfd627-a538-4594-b821-f59acc05868c",
+          "status": "Approval Pending"
+        }
+      },
+      "mob": "7000000000",
+      "name": "Abcde",
+      "password": "abcde12345",
+      "savingChecked": false,
+      "transactions": {
+        "2mgdLTVy7z": "Delhi Floods//50//Donation//17/07/2023 11:27:26 pm//debit//933.00",
+        "3ApSzB9M1p": "Bxxxxxxxxx: Ashwin//5// //17/07/2023 11:28:30 pm//debit//928.00",
+        "3EMQerhCkw": "Bxxxxxxxxx: Ashwin//5// //08/07/2023 09:10:30 am//debit//1688.00",
+        "4hbaRMxt6v": "Bxxxxxxxxx: Ashwin//15// //04/07/2023 03:07:39 PM//debit//825.00",
+        "9FrmbcIB0k": "Bxxxxxxxxx: Ashwin//50// //04/07/2023 01:29:25 PM//debit//860.00",
+        "9M4gcdU2jL": "Odisha Train Tragedy//5//Donation//17/07/2023 11:05:00 pm//debit//983.00",
+        "CAYH8mA2V3": "Bxxxxxxxxx: Ashwin//12// //05/07/2023 04:07:21 PM//debit//798.00",
+        "FqhxI0bvOE": "Bxxxxxxxxx: Ashwin//10// //04/07/2023 02:22:59 PM//debit//850.00",
+        "OwGs5Pk2Rh": "Bxxxxxxxxx: Ashwin//80// //04/07/2023 10:22:59 pm//debit//920.00",
+        "PPFGYMpQOQ": "Bxxxxxxxxx: Ashwin//10// //04/07/2023 10:26:37 pm//debit//910.00",
+        "UqG2xc8Trm": "Bxxxxxxxxx: Ashwin//50// //15/07/2023 12:00:00 AM//debit//1138.00",
+        "Wb0gYKhigT": "Bxxxxxxxxx: Ashwin//100//zomato Gift Card (Wb0gYKhigT)//17/07/2023 09:35:27 pm//debit//988.00",
+        "YbcpVMywDO": "Bxxxxxxxxx: Ashwin//100//ok//07/07/2023 12:00:00 AM//debit//1693.00",
+        "Zcn2JdwMp9": "Bxxxxxxxxx: Ashwin//1000// //06/07/2023 09:29:21 pm//credit//1793.00",
+        "cgKlWEE5DJ": "Bxxxxxxxxx: Ashwin//5// //06/07/2023 08:58:51 pm//debit//793.00",
+        "meBNYT7eQV": "Bxxxxxxxxx: Ashwin//50// //10/07/2023 02:41:39 pm//credit//1188.00",
+        "rVQsRIz2RX": "Bxxxxxxxxx: Ashwin//500// //13/07/2023 12:00:00 AM//debit//1188.00",
+        "rXtDk5OuDl": "Bxxxxxxxxx: Ashwin//5// //05/07/2023 08:15:46 am//debit//820.00",
+        "sA3UnoGP4M": "Bxxxxxxxxx: Ashwin//100//baskin Gift Card (sA3UnoGP4M)//15/07/2023 09:29:51 pm//debit//1088.00",
+        "uQHfOAPzWU": "Bxxxxxxxxx: Ashwin//10// //05/07/2023 01:20:21 PM//debit//810.00",
+        "yVY68vbebd": "Bxxxxxxxxx: Ashwin//10// //04/07/2023 02:46:33 PM//debit//840.00"
+      },
+      "uid": "J80nOV0R9NO5haBughZKXkkyY9G3",
+      "userid": "b555555555"
+    },
+    "bxxxxxxxxx": {
+      "Images": "https://firebasestorage.googleapis.com/v0/b/indusind-371d0.appspot.com/o/1687935119011.jpg?alt=media&token=c5a40601-ac46-472b-8598-1979d26aedcf",
+      "address": "Chennai",
+      "balance": "4667.00",
+      "beneficiary": {
+        "b555555555": "Abcde ICICI00875"
+      },
+      "branch": "VIT Chennai",
+      "currentChecked": false,
+      "dob": "05/12/2003",
+      "email": "ashwin@gmail.com",
+      "gender": "Male",
+      "gift": {
+        "Wb0gYKhigT": "B555555555: Abcde//100//zomato Gift Card (Wb0gYKhigT)//17/07/2023 09:35:39 pm//credit",
+        "sA3UnoGP4M": "B555555555: Abcde//100//baskin Gift Card (sA3UnoGP4M)//15/07/2023 09:30:03 pm//credit"
+      },
+      "ifsc": "ICICI0006745",
+      "last": "17/07/2023 07:32:15 PM",
+      "loan": {
+        "-N_YX4vaKGR0ZkDZKRvv": {
+          "aadhar": "https://firebasestorage.googleapis.com/v0/b/indusind-371d0.appspot.com/o/aadhar_Bxxxxxxxxx.jpg?alt=media&token=524b89ea-7be3-48fd-804b-83fa29e56f6b",
+          "amount": "20000",
+          "month": "1",
+          "netAmount": "20241.66",
+          "pan": "https://firebasestorage.googleapis.com/v0/b/indusind-371d0.appspot.com/o/pan_Bxxxxxxxxx.jpg?alt=media&token=21f45969-a18a-47fa-b84c-b44311efd76e",
+          "paySlip": "https://firebasestorage.googleapis.com/v0/b/indusind-371d0.appspot.com/o/payslip_Bxxxxxxxxx.jpg?alt=media&token=73bac5fd-f1ef-4c2c-a64f-0c79deb4f5e1",
+          "remarks": "Wrong Images",
+          "status": "Rejected"
+        },
+        "-N_YtR31WQfpLKvVZ38B": {
+          "aadhar": "https://firebasestorage.googleapis.com/v0/b/indusind-371d0.appspot.com/o/aadhar_Bxxxxxxxxx.heic?alt=media&token=114bff35-8897-4c02-8cd5-e7d52723fa3b",
+          "amount": "10000",
+          "month": "6",
+          "netAmount": "10747.24",
+          "pan": "https://firebasestorage.googleapis.com/v0/b/indusind-371d0.appspot.com/o/pan_Bxxxxxxxxx.heic?alt=media&token=42ed47e0-02bf-4dca-8426-f0388f0f6aa8",
+          "paySlip": "https://firebasestorage.googleapis.com/v0/b/indusind-371d0.appspot.com/o/payslip_Bxxxxxxxxx.heic?alt=media&token=ea9b162b-ce9c-41ed-a24f-516043322c68",
+          "status": "Approval Pending"
+        }
+      },
+      "mob": "7086020378",
+      "name": "Ashwin",
+      "password": "ashwin1174",
+      "savingChecked": true,
+      "transactions": {
+        "3ApSzB9M1p": "B555555555: Abcde//5// //17/07/2023 11:28:30 pm//credit//4667.00",
+        "3EMQerhCkw": "B555555555: Abcde//5// //08/07/2023 09:10:30 am//credit//.00",
+        "4hbaRMxt6v": "B555555555: Abcde//15// //04/07/2023 03:07:39 PM//credit//.00",
+        "9FrmbcIB0k": "b555555555: Abcde//50// //04/07/2023 01:29:25 PM//credit//.00",
+        "CAYH8mA2V3": "B555555555: Abcde//12// //05/07/2023 04:07:21 PM//credit//.00",
+        "FqhxI0bvOE": "B555555555: Abcde//10// //04/07/2023 02:22:59 PM//credit//.00",
+        "OwGs5Pk2Rh": "B555555555: Abcde//80// //04/07/2023 10:22:59 pm//credit//.00",
+        "PPFGYMpQOQ": "B555555555: Abcde//10// //04/07/2023 10:26:37 pm//credit//.00",
+        "UqG2xc8Trm": "B555555555: Abcde//50// //15/07/2023 12:00:00 AM//credit//4512.00",
+        "Wb0gYKhigT": "B555555555: Abcde//100//zomato Gift Card (Wb0gYKhigT)//17/07/2023 09:35:27 pm//credit//4662.00",
+        "YbcpVMywDO": "b555555555: Abcde//100//ok//07/07/2023 12:00:00 AM//credit//.00",
+        "Zcn2JdwMp9": "B555555555: Abcde ICICI00656//1000// //06/07/2023 09:29:21 pm//debit//.00",
+        "cgKlWEE5DJ": "B555555555: Abcde//5// //06/07/2023 08:58:51 pm//credit//.00",
+        "meBNYT7eQV": "B555555555: Abcde ICICI00875//50// //10/07/2023 02:41:39 pm//debit//4462.00",
+        "rVQsRIz2RX": "B555555555: Abcde//500// //13/07/2023 12:00:00 AM//credit//.00",
+        "rXtDk5OuDl": "B555555555: Abcde//5// //05/07/2023 08:15:46 am//credit//.00",
+        "sA3UnoGP4M": "B555555555: Abcde//100//baskin Gift Card (sA3UnoGP4M)//15/07/2023 09:29:51 pm//credit//4562.00",
+        "uQHfOAPzWU": "B555555555: Abcde//10// //05/07/2023 01:20:21 PM//credit//.00",
+        "yVY68vbebd": "B555555555: Abcde//10// //04/07/2023 02:46:33 PM//credit//.00"
+      },
+      "uid": "XiQj5uXMonVwb7y7e0hkz1kGJDU2",
+      "userid": "bxxxxxxxxx"
+    },
+    "mobile_number": {
+      "7000000000": "b555555555",
+      "7086020378": "bxxxxxxxxx"
+    }
+  }
+}
