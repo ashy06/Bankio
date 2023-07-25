@@ -5,3 +5,17 @@ Overall, the Bankio account management application is a crucial solution in this
 
 
 <img src="https://github.com/ashy06/Bankio/assets/91536260/a41ec389-eb6c-4aa3-9017-f910950c14c3.png" width=30% height=30%>
+<img src="https://github.com/ashy06/Bankio/assets/91536260/6b9ee36d-81e8-44cc-954b-a7e70af971a7.png" width=30% height=30%>
+<img src="https://github.com/ashy06/Bankio/assets/91536260/f7482989-83a6-46a4-9f62-33004e7dc959.png" width=30% height=30%>
+<img src="https://github.com/ashy06/Bankio/assets/91536260/784a89b9-5166-4096-a7d0-ddaabaef3129.png" width=30% height=30%>
+<img src="https://github.com/ashy06/Bankio/assets/91536260/7101a00d-97e8-4425-905a-8a90b4d89688.png" width=30% height=30%>
+<img src="https://github.com/ashy06/Bankio/assets/91536260/2a89d018-9cb2-4e70-8ffe-e43d061ca9c9.png" width=30% height=30%>
+<img src="https://github.com/ashy06/Bankio/assets/91536260/7da231c9-7947-474b-ae79-befcc5f8f2ee.png" width=30% height=30%>
+<img src="https://github.com/ashy06/Bankio/assets/91536260/12e0c30e-881d-4d81-89c7-271cfc7e064a.png" width=30% height=30%>
+<img src="https://github.com/ashy06/Bankio/assets/91536260/33b53c9d-03c7-4280-a9f9-ac8f2b08375e.png" width=30% height=30%>
+<img src="https://github.com/ashy06/Bankio/assets/91536260/19b43b6b-f4f2-4b06-8cb6-2cd0458ef590.png" width=30% height=30%>
+<img src="https://github.com/ashy06/Bankio/assets/91536260/6b76a195-7389-4172-be16-5c6d00863562.png" width=30% height=30%>
+<img src="https://github.com/ashy06/Bankio/assets/91536260/7b6f90a9-6972-4f13-91af-2ba1f83efb90.png" width=30% height=30%>
+<img src="https://github.com/ashy06/Bankio/assets/91536260/34089bea-5b9f-416c-bc9e-15bf6c13005d.png" width=30% height=30%>
+<img src="https://github.com/ashy06/Bankio/assets/91536260/136cc75d-0632-4177-94c1-fe4320b257d3.png" width=30% height=30%>
+<img src="https://github.com/ashy06/Bankio/assets/91536260/83756439-f809-4825-9bad-0fc3fb8e1c08.png" width=30% height=30%>
