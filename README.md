@@ -4,4 +4,4 @@ This application not only provides a user-friendly interface for managing bankin
 Overall, the Bankio account management application is a crucial solution in this digitalization era, providing customers with a convenient and secure way to manage their finances on the go, enabling them to keep pace with the rapidly evolving digital landscape.
 
 
-<img src="[https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png](https://github.com/ashy06/Bankio/assets/91536260/a41ec389-eb6c-4aa3-9017-f910950c14c3.png)https://github.com/ashy06/Bankio/assets/91536260/a41ec389-eb6c-4aa3-9017-f910950c14c3.png" width=50% height=50%>
+<img src="https://github.com/ashy06/Bankio/assets/91536260/a41ec389-eb6c-4aa3-9017-f910950c14c3.png" width=50% height=50%>
