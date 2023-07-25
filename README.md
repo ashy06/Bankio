@@ -8,8 +8,8 @@ The app is published in Google Play Store and as of 25/07/2023 its in Early Acce
 NOTE:- Download all rar parts but while extracting, extract only the part1, it will be sufficient.
 
 
-<img src="https://github.com/ashy06/Bankio/assets/91536260/a41ec389-eb6c-4aa3-9017-f910950c14c3.png" width=30% height=50%>
-<img src="https://github.com/ashy06/Bankio/assets/91536260/6b9ee36d-81e8-44cc-954b-a7e70af971a7.png" width=30% height=50%>
+<img src="https://github.com/ashy06/Bankio/assets/91536260/a41ec389-eb6c-4aa3-9017-f910950c14c3.png" width=30% height=80%>
+<img src="https://github.com/ashy06/Bankio/assets/91536260/6b9ee36d-81e8-44cc-954b-a7e70af971a7.png" width=30% height=80%>
 <img src="https://github.com/ashy06/Bankio/assets/91536260/f7482989-83a6-46a4-9f62-33004e7dc959.png" width=30% height=30%>
 <img src="https://github.com/ashy06/Bankio/assets/91536260/784a89b9-5166-4096-a7d0-ddaabaef3129.png" width=30% height=30%>
 <img src="https://github.com/ashy06/Bankio/assets/91536260/7101a00d-97e8-4425-905a-8a90b4d89688.png" width=30% height=30%>
